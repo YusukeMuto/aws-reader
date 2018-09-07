@@ -1,0 +1,22 @@
+{
+  "name": "ymuto-aws-reader",
+  "version": "1.0.0",
+  "description": "Dynamodb or S3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ymuto-dynamodb-client": "1.0.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YusukeMuto/aws-reader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YusukeMuto/aws-reader/issues"
+  },
+  "homepage": "https://github.com/YusukeMuto/aws-reader#readme"
+}
