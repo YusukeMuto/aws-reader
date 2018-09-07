@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "ymuto-dynamodb-client": "1.0.x"
+    "ymuto-dynamodb-client": "1.0.x",
+    "ymuto-s3-client": "1.0.x"
   },
   "repository": {
     "type": "git",

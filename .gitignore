@@ -1,2 +1,5 @@
 .DS_Store
+
+.ymuto_config.json
+
 node_modules/
